@@ -3,7 +3,7 @@
 Tested on computers running Windows 11 in the USYD's ABS building.
 
 ## How to use:
-- Download `setup.ps1` and run it without administrative rights
+- Download `setup.ps1` and run it in PowerShell without administrative rights
 - g++ and VSCode are automatically downloaded and set up. A VSCode shortcut is created in Desktop.
 
 ## What the script does:
